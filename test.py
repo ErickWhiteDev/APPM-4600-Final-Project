@@ -33,7 +33,7 @@ Pxx, freqs, bins, im = ax.specgram(magnitude - np.mean(magnitude), NFFT=2056, Fs
 bins_hours = bins / 3600
 
 ax.set_xlabel('Time (hours)')
-ax.set_xticks(np.arange(0, 86400, 3600), np.arange(0, np.max(bins_hours), 1))  # Set ticks every hour
+ax.set_xticks(np.arange(0, 86400, 3600), np.arange(0, np.max(bins_hours), 1))
 
 ax.set_xlim(16 * 3600, 22 * 3600)
 ax.set_ylim(0.1, 10)
