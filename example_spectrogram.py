@@ -12,7 +12,7 @@ magnitude = data_file["Magnitude"][:]
 
 N = len(magnitude)
 
-n = int(4096 / 2)
+n = int(4096)
 
 win = hamming(2 * n)
 hop = n
