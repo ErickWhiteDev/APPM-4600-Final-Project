@@ -7,7 +7,7 @@ This repository contains the code for our final paper for APPM 4600, Numerical A
  
 ## Report
 
-Our final report is available <a href="appm_4600_final_paper.pdf">here</a>. All figures in this paper were created using code available in this repository.
+Our final report is available <a href="APPM_4600_FFT_Report_EEE.pdf">here</a>. All figures in this paper were created using code available in this repository.
 
 ## Data
 
