@@ -54,7 +54,7 @@ for N in [732, 250, 50, 6]:
         j = 1
         i = 0
 
-fig.supxlabel("Day (from 1 January 2024)")
+fig.supxlabel("Day (from 1 January 2022)")
 fig.supylabel("Temperature (F)")
 
 plt.show()
